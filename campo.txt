@@ -1,0 +1,16 @@
+        
+        
+        
+        
+        
+G   B  G
+G B
+RGB    B
+RBG
+ BG R  R
+  RBBRRB
+BR GGBBG
+R    BGG
+ GRBB RB
+   G RR
+BRBRBGGR
